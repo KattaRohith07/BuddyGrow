@@ -1,0 +1,48 @@
+body {
+    background-image: url(sebastian-svenson-d2w-_1LJioQ-unsplash\ \(3\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    font-style:italic ;
+  }
+
+
+  form {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+  }
+
+  input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+  }
+
+  input[type="submit"] {
+    width: 40%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  label {
+    font-size: 16.5px;
+    margin-top: 20px;
+    display: block;
+    font-weight: bold;
+  }
+  
